@@ -7,3 +7,6 @@ by [Michael Hartl](http://michaelhartl.com/).
 test
 
 test
+
+
+now it works
