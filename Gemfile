@@ -42,3 +42,5 @@ end
 gem 'oauth'
 gem 'json'
 gem 'dropbox-sdk'
+
+gem 'capistrano'
